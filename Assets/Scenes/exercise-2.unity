@@ -737,6 +737,7 @@ MonoBehaviour:
   maxLon: -3
   speedMultiplier: 10
   slerpFactor: 2
+  headingOffset: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
